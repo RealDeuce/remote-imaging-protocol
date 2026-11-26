@@ -4,6 +4,8 @@
 
 ## Resume here
 
+**2026-11-26 16:36:35 UTC.** [PR #354](https://github.com/bbs-land/remote-imaging-protocol/pull/354) covers #353. Its actual head `c0d7047fc5f544d2641702b14dc72ec9c717e89f` is on fork stable through `2a4d9f0b091bc60037349581c9d33eb092108689`. The [derivation](issue-353-default-text-window-rows.md) records the five startup row counts, initial margins, the static numbered-line trace, and the status option’s geometry boundary. The audit found all 176 open RealDeuce issues covered and all 175 open PR heads on stable.
+
 **2026-11-26 15:18:11 UTC.** [PR #352](https://github.com/bbs-land/remote-imaging-protocol/pull/352) covers #350. Its actual head `cfa6624063b6a1c83a9c7db01bd4893bd56aee40` is on fork stable through `601d80a68761f86591e8f1494655afe58494d321`. The [derivation](issue-350-circle-device-radius.md) records the X-only radius conversion, equal device radii, historical EGA scope, and the 640×400 wire example. The audit found all 175 open RealDeuce issues covered and all 174 open PR heads on stable.
 
 **2026-11-26 15:15:12 UTC.** [PR #351](https://github.com/bbs-land/remote-imaging-protocol/pull/351) covers #349. Its actual head `08302979d9c78609a806bca5734dd61a47c228a2` is on fork stable through `5b7a41e6f695352d4199eab84f244cbb66e35c4d`. The [derivation](issue-349-microansi-font-selection.md) records the client-area bank ranges, text-window mode selection, default preference and seven byte-verified glyph traces. The audit found 174 of 175 open RealDeuce issues covered and all 173 open PR heads on stable. Continue with #350.
