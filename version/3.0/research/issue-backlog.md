@@ -4,7 +4,7 @@
 
 ## Resume here
 
-**2026-11-26 16:36:35 UTC.** [PR #354](https://github.com/bbs-land/remote-imaging-protocol/pull/354) covers #353. Its actual head `c0d7047fc5f544d2641702b14dc72ec9c717e89f` is on fork stable through `2a4d9f0b091bc60037349581c9d33eb092108689`. The [derivation](issue-353-default-text-window-rows.md) records the five startup row counts, initial margins, the static numbered-line trace, and the status option’s geometry boundary. The audit found all 176 open RealDeuce issues covered and all 175 open PR heads on stable.
+**2026-11-26 16:43:22 UTC.** [PR #354](https://github.com/bbs-land/remote-imaging-protocol/pull/354) covers #353. Its corrected head `5c703d38c488a0af3b7a038ab3e31f492c9cb923` is on fork stable through `1e613d42b09a5cc982ac04a5022e1bf01ddaddf4`. The [derivation](issue-353-default-text-window-rows.md) records the original row table, the status-line source and the numbered-line fixture contrasting the 42-row startup with an explicit 43-row window. The audit found all 176 open RealDeuce issues covered and all 175 open PR heads on stable.
 
 **2026-11-26 15:18:11 UTC.** [PR #352](https://github.com/bbs-land/remote-imaging-protocol/pull/352) covers #350. Its actual head `cfa6624063b6a1c83a9c7db01bd4893bd56aee40` is on fork stable through `601d80a68761f86591e8f1494655afe58494d321`. The [derivation](issue-350-circle-device-radius.md) records the X-only radius conversion, equal device radii, historical EGA scope, and the 640×400 wire example. The audit found all 175 open RealDeuce issues covered and all 174 open PR heads on stable.
 
